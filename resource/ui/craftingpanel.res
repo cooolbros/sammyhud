@@ -145,7 +145,7 @@
 		"ControlName"						"ImagePanel"
 		"fieldName"							"Background"
 		"xpos"								"0"
-		"ypos"								"0"
+		"ypos"								"-40"
 		"zpos"								"-10"
 		"wide"								"f0"
 		"tall"								"480"
@@ -478,8 +478,8 @@
 		"zpos"			"-9"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"bgcolor_override"	"15 15 15 170"
 	}
 }
