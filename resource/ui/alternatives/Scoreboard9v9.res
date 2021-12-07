@@ -417,11 +417,6 @@
 		"pin_to_sibling"	"MapIcon"
         "pin_corner_to_sibling"	"PIN_TOPLEFT"
         "pin_to_sibling_corner"	"PIN_TOPRIGHT"
-
-		if_mvm
-		{
-			"ypos"		"-5"
-		}
 	}
 	"ServerLabel"
 	{
@@ -443,11 +438,6 @@
 		"pin_to_sibling"	"MapName"
         "pin_corner_to_sibling"	"PIN_TOPLEFT"
         "pin_to_sibling_corner"	"PIN_TOPLEFT"
-
-		if_mvm
-		{
-			"visible"		"0"
-		}
 	}
 	"ServerTimeLeftValue"
 	{
