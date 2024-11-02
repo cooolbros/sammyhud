@@ -133,19 +133,6 @@ Scheme
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
-
-		BlackTransparent70b
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			
-			"image"					"replay/thumbnails/panels/Material_Transparent_Black_70b"
-			"src_corner_height"		"32"
-			"src_corner_width"		"32"
-			"draw_corner_width"		"8"
-			"draw_corner_height" 	"8"
-		}
-		
 		BlackTransparent90
 		{
 			"bordertype"			"scalable_image"
@@ -839,7 +826,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"30 30 30 140"
+			"color"					"15 15 15 140"
 			
 			"image"					"replay/thumbnails/panels/Material_Generic"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -2862,7 +2849,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 1"
 				}
 
@@ -2872,7 +2859,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "1 0"
 				}
 			}
@@ -2881,7 +2868,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 0"
 				}
 			}
@@ -2890,7 +2877,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 0"
 				}
 			}
@@ -2903,12 +2890,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 1"
 				}
 			}
@@ -2917,12 +2904,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "1 0"
 				}
 				"2"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "1 0"
 				}
 			}
@@ -2931,12 +2918,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 0"
 				}
 			}
@@ -2945,12 +2932,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "nüAccent"
+					"color" "CreditsGreen"
 					"offset" "0 0"
 				}
 			}

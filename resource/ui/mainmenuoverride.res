@@ -10,90 +10,6 @@
 
 "Resource/UI/MainMenuOverride.res"
 {
-
-	"mmMovingBGPanel"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"mmMovingBGPanel"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-199"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
-
-		"mmBG"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"mmBG"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"100"
-			"wide"			"f0"
-			"tall"			"480"
-			"visible"		"1"
-			"enabled"		"1"
-			"fillcolor"		"nüBase"
-		}
-		"mmFading1"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"mmFading1"
-			"xpos"			"-300"
-			"ypos"			"0"
-			"zpos"			"101"
-			"wide"			"2000"
-			"tall"			"480"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"replay/thumbnails/menu/mm1"
-			"scaleimage"		"1"
-		}
-		"mmFading2"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"mmFading2"
-			"xpos"			"-200"
-			"ypos"			"0"
-			"zpos"			"101"
-			"wide"			"2000"
-			"tall"			"480"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"replay/thumbnails/menu/mm2"
-			"scaleimage"		"1"
-		}
-		"mmFading3"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"mmFading3"
-			"xpos"			"-300"
-			"ypos"			"0"
-			"zpos"			"101"
-			"wide"			"2000"
-			"tall"			"480"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"replay/thumbnails/menu/mm3"
-			"scaleimage"		"1"
-		}
-		"mmFading4"
-		{
-			"ControlName"		"ImagePanel"
-			"fieldName"		"mmFading4"
-			"xpos"			"-300"
-			"ypos"			"0"
-			"zpos"			"101"
-			"wide"			"2000"
-			"tall"			"480"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"replay/thumbnails/menu/mm4"
-			"scaleimage"		"1"
-		}
-	}
-
 	MainMenuOverride
 	{
 		"fieldName"		"MainMenuOverride"
@@ -1490,7 +1406,7 @@
 		}
 	}			
 
-  "MenuSidePanel"
+	"MenuSidePanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MenuSidePanel"
@@ -1501,7 +1417,7 @@
 		"tall"			"225"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"15 15 15 200"
+		"bgcolor_override"	"15 15 15 127"
 	}
 
 
@@ -3383,7 +3299,7 @@
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 
-			"bgcolor_override"	"15 15 15 200"
+			"bgcolor_override"	"15 15 15 127"
 		}
 	}
 

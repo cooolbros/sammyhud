@@ -1,16 +1,5 @@
 "GameMenu" [$WIN32]
 {
-	// background
-	"mmMovingBGPanel"
-	{
-		"label"			""
-		"command"		"callvote"
-		"OnlyAtMenu"	"1"
-		"subimage" "icon_checkbox"
-		"tooltip" "#MMenu_CallVote"
-	}
-
-
 	//MAIN MENU BUTTONS
 	"ServerBrowserButton"
 	{

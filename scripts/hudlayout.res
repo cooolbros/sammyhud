@@ -316,7 +316,7 @@
 		
 		"PaintBackgroundType"	"2"
 	}
-
+	
 	"CurrencyStatusPanel"
 	{
 		"ControlName"		"CCurrencyStatusPanel"
@@ -475,7 +475,7 @@
 
 		"MaxDeathNotices" "7"
 		"IconScale"	      "0.35"
-		"LineHeight"	  "11"
+		"LineHeight"	  "12"
 		"LineSpacing"	  "0"
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right

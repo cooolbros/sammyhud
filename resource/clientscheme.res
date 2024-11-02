@@ -1,6 +1,7 @@
 //------------------------------------------
 
 	#base "../resource/scheme/fonts_product.res"
+//	#base "../resource/scheme/fonts_avenir.res"
 
 
 // Do not change these

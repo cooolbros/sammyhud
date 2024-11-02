@@ -168,6 +168,6 @@
 		"visible"						"1"
 		"proportionaltoparent"			"1"
 		"paintbackground"	"1"
-		"bgcolor_override"			"nüDarkGrey"
+		"border"		"nüMenuButtonBorder"
 	}
 }

@@ -40,8 +40,8 @@
 		"zpos"			"1"
 		"wide"			"10"
 		"tall"			"10"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
 		"iconColor"		"240 240 240 255"
@@ -73,7 +73,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValueShadow"
-		"xpos"			"1"
+		"xpos"			"0"
 		"ypos"			"-1"
 		"zpos"			"2"
 		"wide"			"100"
@@ -87,7 +87,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"nüMedium16"
+		"font"			"nüMediumShadow16"
 		"fgcolor"		"ShadowBlack"
 
 		"pin_to_sibling"	"AccountValue"

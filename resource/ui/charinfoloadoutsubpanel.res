@@ -59,8 +59,8 @@
 		"zpos"			"-99"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"bgcolor_override"	"15 15 15 170"
 	}
 
